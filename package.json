@@ -1,0 +1,20 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "description": "visual models, art, assets and sound",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axanar-prelude/assets.git"
+  },
+  "keywords": [],
+  "author": "jacob.bogers <Jacob.Bogers@doclerholding.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axanar-prelude/assets/issues"
+  },
+  "homepage": "https://github.com/axanar-prelude/assets#readme"
+}
